@@ -1,2 +1,2 @@
-# easydriverbase
-通信驱动基类
+# easybase
+基类
